@@ -1,0 +1,8 @@
+Origin: xDarkicex
+Label: mcp-memory-libravdb
+Suite: stable
+Codename: stable
+Date: Sun, 28 Jun 2026 02:35:58 +0000
+Architectures: amd64 arm64
+Components: main
+Description: MCP server for the libravdbd cognitive memory kernel

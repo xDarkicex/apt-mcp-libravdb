@@ -1,0 +1,32 @@
+Package: mcp-memory-libravdb
+Version: 0.1.0
+Architecture: arm64
+Maintainer: xDarkicex
+Installed-Size: 15064
+Filename: pool/main/m/mcp-memory-libravdb/mcp-memory-libravdb_0.1.0_arm64.deb
+Size: 4555830
+MD5sum: bd8e5ff24a1b325d2c6b007fb2cd407b
+SHA1: 164bc7a2efbb35650984c33674a8586ab1a48215
+SHA256: 96a04b914c90befe62298c8c4e6bee44a2605700e0ae09b3fd17142200a924b0
+Section: utils
+Priority: optional
+Homepage: https://github.com/xDarkicex/mcp-libravdb-server
+Description: MCP server for the libravdbd cognitive memory kernel
+ Exposes libravdbd's cognitive memory system to any MCP-compatible AI client.
+
+Package: mcp-memory-libravdb
+Version: 0.1.0
+Architecture: amd64
+Maintainer: xDarkicex
+Installed-Size: 16048
+Filename: pool/main/m/mcp-memory-libravdb/mcp-memory-libravdb_0.1.0_amd64.deb
+Size: 5115386
+MD5sum: fb339f86ce33cee5d4ee18067741103b
+SHA1: 654e261ec0439f2bf33caf0233ba5a5f54d00149
+SHA256: 8a0e94725f19adb3123a0a0b8cd8430ab52b1f603d1cc95289cf72ad53d81123
+Section: utils
+Priority: optional
+Homepage: https://github.com/xDarkicex/mcp-libravdb-server
+Description: MCP server for the libravdbd cognitive memory kernel
+ Exposes libravdbd's cognitive memory system to any MCP-compatible AI client.
+

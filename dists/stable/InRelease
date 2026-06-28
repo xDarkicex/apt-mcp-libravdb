@@ -1,0 +1,27 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: xDarkicex
+Label: mcp-memory-libravdb
+Suite: stable
+Codename: stable
+Date: Sun, 28 Jun 2026 02:35:58 +0000
+Architectures: amd64 arm64
+Components: main
+Description: MCP server for the libravdbd cognitive memory kernel
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEVeEXov0/Y1QJliV4m3EMIwaBTGkFAmpAiI4ACgkQm3EMIwaB
+TGlgJhAAogx1G46GX0ZZzIprODUGKa8Kuaig4mOaYhxgUpjznaTxhc05KM/aKo7z
+MfeTlF0e7V3+qWzsfWhZXOJTUCDYAg/z3/0SrErJOpjBI2mU+NFmzRVE9B5cryN/
+VSW3WnJxzHolkpQlK6DkG740Qg2Q7aU+ijwD/FpM8ZVG5tRufY87snvWlPAhqzOY
+P2FaTxqeWll+D8qsP70HQWyyz/UGTatH1nowSM1qeuIALCcy70b/woTDlGlWyXgl
+giURURokYVlFUZosei87K6q74SwJ+zZOUa7Xvmo9+QaYkGuEDCkzuYimYalEe2KF
++uY2tsE289VEkdG07FatSeA0fetFZufI+9v91N2uTfMlJdZjJcex+2d+h/xQD6rB
+AEPg9665pCD2Xa928uki/O+kr/KTCXLyLFAMXAJul3MWkrdj/ZGp1vxVaETZwXqO
+goJe2+4ypK4vjh7a+Anhn/YZbhw4UqhFfjUdaykzqDlLAEoZ4b/7wfgILzBJywnJ
+Whiq0uU46JPXRoZtTO5XdW/LAt+3oHgvIC/DxuDTv/QRSM/e8DGytiws9oBGwq77
+FLk0MQnxdyRfrsjfjBIRHMerUfLqtkhRunREU1aK2NIDstfyMWm2UYOTTN8vynLg
+IDa/9VA/4ql0TzpDn0ZVJzvMk8Kjlz1dv42T9trmsCTSsnk1vjo=
+=b8yy
+-----END PGP SIGNATURE-----
